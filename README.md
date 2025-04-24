@@ -1,9 +1,9 @@
-## Hello! I'm Lu, welcome to my profile! 👋
+## Olá! Eu sou o Luis 👋
+🎯 Desenvolvedor Front-end especializado em Angular
+🎨 Apaixonado por criar interfaces responsivas, modernas e com ótima experiência de usuário
+💡 Conhecimentos em Angular, React, UI/UX e outras tecnologias do ecossistema Front-end
 
-
-- 📚 Currently studying Front-end and its technologies.
-- 💻 I’m currently learning: React, UI/UX.
-- ✨ Ask me about: chess, guitar, tech, movies.
+🚀 Sempre em busca de aprender, evoluir e criar projetos incríveis!
 
 <div align="center"> 
   <!-- GitHub Stats -->
@@ -17,7 +17,7 @@
 <div align="center"> 
 <div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px; align-items: center;">
   <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
