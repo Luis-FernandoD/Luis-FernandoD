@@ -1,6 +1,8 @@
 ## Olá! Eu sou o Luis 👋
 🎯 Desenvolvedor Front-end especializado em Angular
+
 🎨 Apaixonado por criar interfaces responsivas, modernas e com ótima experiência de usuário
+
 💡 Conhecimentos em Angular, React, UI/UX e outras tecnologias do ecossistema Front-end
 
 🚀 Sempre em busca de aprender, evoluir e criar projetos incríveis!
