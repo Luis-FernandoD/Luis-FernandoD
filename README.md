@@ -1,11 +1,42 @@
-## Olá! Eu sou o Luis 👋
-🎯 Desenvolvedor Front-end especializado em Angular
+# 👋 Olá! Eu sou o Luis Fernando
 
-🎨 Apaixonado por criar interfaces responsivas, modernas e com ótima experiência de usuário
+Sou um **Desenvolvedor Front End** apaixonado por criar interfaces modernas, funcionais e acessíveis. Sempre buscando entregar as melhores experiências digitais, trabalho principalmente com as seguintes tecnologias:
 
-💡 Conhecimentos em Angular, React, UI/UX e outras tecnologias do ecossistema Front-end
+- **Angular**
+- **JavaScript (JS)**
+- **TypeScript (TS)**
+- **React Native**
 
-🚀 Sempre em busca de aprender, evoluir e criar projetos incríveis!
+---
+
+## 🚀 Sobre mim
+
+Gosto de aprender coisas novas e enfrentar desafios que me façam crescer como profissional e pessoa. Meu foco está sempre em evoluir, colaborar e compartilhar conhecimento.
+
+---
+
+## 🎯 Skills
+
+- Desenvolvimento de aplicações web e mobile
+- Componentização e boas práticas de UI/UX
+- Integração com APIs REST
+- Versionamento com Git/GitHub
+
+---
+
+## 💼 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis%20Fernando-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/luis-fernando-42a3a4245/)
+
+---
+
+## 🎸 Curiosidades
+
+Nas horas vagas, gosto de jogar uma boa partida de **xadrez** e tocar **violão**. Acredito que a criatividade e a lógica andam juntas, tanto no código quanto na vida!
+
+---
+
+> "Sempre em busca do próximo desafio. Bora codar?"
 
 <div align="center"> 
   <!-- GitHub Stats -->
