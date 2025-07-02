@@ -13,7 +13,7 @@ Sou um **Desenvolvedor Front End** apaixonado por criar interfaces modernas, fun
 
 Gosto de aprender coisas novas e enfrentar desafios que me façam crescer como profissional e pessoa. Meu foco está sempre em evoluir, colaborar e compartilhar conhecimento.
 
----
+--- 
 
 ## 🎯 Skills
 
