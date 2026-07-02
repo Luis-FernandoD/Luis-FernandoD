@@ -39,12 +39,6 @@ Nas horas vagas, gosto de jogar uma boa partida de **xadrez** e tocar **violão*
 > "Sempre em busca do próximo desafio. Bora codar?"
 
 <div align="center"> 
-  <!-- GitHub Stats -->
-  <a href="https://github.com/Luis-FernandoD" target="_blank">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Luis-FernandoD&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-FernandoD&layout=compact&theme=chartreuse-dark" alt="Linguagens mais usadas"/>
-  </a>
-</div>
 
 <!-- Tecnologias -->
 <div align="center"> 
